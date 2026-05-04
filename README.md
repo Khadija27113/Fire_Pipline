@@ -217,3 +217,6 @@ Analytics / Dashboard
 * Build dashboards (e.g., Streamlit)
 * Add alerting system
 * Deploy to cloud
+
+## Link to the dashboard :
+* https://fire-pipeline.streamlit.app/
